@@ -1,8 +1,8 @@
 My todos
 ===
 
-- [ ] Make my Git repository
-- [ ] Commit my first Git commit
+- [x] Make my Git repository
+- [x] Commit my first Git commit
 - [ ] Push to GitHub
 - [ ] Make a new branch
 - [ ] Go back to the scary rollercoaster at Castle n' Coasters
